@@ -1,7 +1,7 @@
 @media (max-width: 766px) {
   body {
     background-color     : rgb(56, 55, 55);
-    background-image     : url('/static/images/background-image.jpg');
+    /* background-image     : url('/static/images/background-image.jpg'); */
     background-repeat    : no-repeat;
     background-attachment: fixed;
     background-size      : cover;
@@ -166,7 +166,7 @@
 @media screen and (min-width: 767px) and (max-width: 1003px) {
   body {
     background-color     : rgb(56, 55, 55);
-    background-image     : url('/static/images/background-image.jpg');
+    /* background-image     : url('/static/images/background-image.jpg'); */
     background-repeat    : no-repeat;
     background-attachment: fixed;
     background-size      : cover;
@@ -312,7 +312,7 @@
 @media screen and (min-width: 1004px) {
   body {
     background-color     : rgb(56, 55, 55);
-    background-image     : url('/static/images/background-image.jpg');
+    /* background-image     : url('/static/images/background-image.jpg'); */
     background-repeat    : no-repeat;
     background-attachment: fixed;
     background-size      : cover;
@@ -413,7 +413,7 @@
 
   div.container-output-header2 {
     width             : 15%;
-    // flex-basis     : 50px;
+    /* // flex-basis     : 50px; */
 
     flex-basis     : 5rem;
     /*Set a fixed width for the flex item - Gives padding from the right 100px*/
